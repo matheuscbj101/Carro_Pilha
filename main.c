@@ -42,7 +42,7 @@ int main (void) {
              push (&estacionamento, c);
          }
 
-         printf ("Carro removido!\n");
+         printf ("Carro  removido!\n");
          print_pilha (&estacionamento);
      }
      break;
